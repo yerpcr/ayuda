@@ -12,7 +12,9 @@ a:hover {
 a:active {
     background-color: rgb(255,255,255);
 }
-
+small{
+	font-size:10px;
+}
 body {
 	font-family:arial;
 	background-color: rgb(245,245,225);
